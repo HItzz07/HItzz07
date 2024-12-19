@@ -123,9 +123,6 @@ Welcome to my GitHub Page. I am Hitesh Kumar Sahu and Software Engineer, I learn
 <details>
   <summary>Activity Graph 📈</summary>
   <br/>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HItzz07&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </details>
 
 
@@ -151,10 +148,6 @@ Welcome to my GitHub Page. I am Hitesh Kumar Sahu and Software Engineer, I learn
 
 <details>
   <summary>Extra Pins 📌</summary>
-  <br/>
-  <a href="https://github.com/HItzz07/Lorem-Farsi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HItzz07i&repo=Lorem-Farsi&theme=default" />
-</a>
   <br/>
   <br/>
  
