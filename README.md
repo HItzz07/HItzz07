@@ -21,8 +21,7 @@
 </div>
 <p></p>
 <p align="justify">
-Welcome to my GitHub Page. I am Hitesh Kumar Sahu and Software Engineer, I learn new things about programming by exploring things that excites me, I have been programming for almost more than 7 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/thissFriday">thiss Friday</a> that shares everything I learn about programming that week.
-
+Welcome to my GitHub Page. I am Hitesh Kumar Sahu and Software Engineer, I learn new things about programming by exploring things that excites me, I have been programming for almost more than 7 years and worked with many languages and technologies.
 </p>
 
 ## My favorite tools and technologies ⚙️
