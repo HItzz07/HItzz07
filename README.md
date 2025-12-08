@@ -1,173 +1,117 @@
-<img src="https://raw.githubusercontent.com/HItzz07/HItzz07/main/intro.gif" alt="👋 Hi there! I'm Hitesh" title="👋 Hi there! I'm Hitesh"/>
-<div align="justify">
+<div align="center">
+ 
+  <!-- Dynamic Typing Intro -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Hitesh;Full+Stack+Engineer;Backend+Architecture+Fanatic;Building+Desktop+Apps;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 
-<a href="https://www.instagram.com/customizinglyf/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.twitter.com/customizinglyf/">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hitesh06/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/customizinglyf/">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Social Badges -->
+  <p>
+    <a href="https://www.linkedin.com/in/hitesh06/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>&nbsp;&nbsp;
+    <a href="https://www.twitter.com/customizinglyf/">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/customizinglyf/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>&nbsp;&nbsp;
+    <a href="https://t.me/customizinglyf/">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
+  </p>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I am **Hitesh Kumar Sahu**, a **Senior Software Engineer** based in **Pune, India**. 
+I have **4+ years** of programming experience, specializing in building high-performance backend systems and cross-platform desktop applications. My passion lies in solving complex architectural problems and optimizing workflows.
+
+- 🔭 I’m currently building **scalable backend systems and APIs using Python & FastAPI**, and experimenting with **cross-platform desktop apps using Tauri & Rust** for performance-focused tools.
+
+- 🌱 I’m actively learning **Systems Programming (Rust/Go)**, **Advanced Kubernetes**, and **Distributed Systems** to strengthen my infrastructure and low-level engineering skills.
+
+- 👯 I’m open to collaborating on **Open Source Backend & DevOps tools**, **trading/finance systems**, and **high-performance productivity apps**.
+
+	💡 **Primary Stack:**  
+	  Python • FastAPI • Backend Architecture • Databases • Cloud • DevOps  
+	
+	⚡ **Exploring:**  
+	  Rust • Go • Tauri • High-performance Systems • Kubernetes
+
+- ⚡ **Fun fact**: When I'm not coding, you'll find me **trekking** in the Sahyadris, hitting the **gym** at 5 AM, or researching nutrition optimization.
+
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| **Domain** | **Technologies** |
+|:---:|:---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,rust,go,js,ts,cpp,kotlin" height="40" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,flask,postgres,redis,mariadb" height="40" /> |
+| **Frontend/Desktop** | <img src="https://skillicons.dev/icons?i=tauri,react,svelte,html,css,flutter" height="40" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,githubactions,jenkins,vscode" height="40" /> |
 
 </div>
-<p></p>
-<p align="justify">
-Welcome to my GitHub Page. I am Hitesh Kumar Sahu and Software Engineer, I learn new things about programming by exploring things that excites me, I have been programming for almost more than 7 years and worked with many languages and technologies.
-</p>
 
-## My favorite tools and technologies ⚙️
+---
 
-> Tools and technologies that I have worked with and am interested in
+### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Docker
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-	<td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
-    </td>
-  </tr>
-   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
-    </td>
-  </tr>
- <tr>
- </tr>
-</table>
+<div align="center">
 
-## Github stats 📊
-
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hitesh's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=HItzz07&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hitesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HItzz07&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-</details>
-
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
-</details>
-
-
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=HItzz07&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
-</details>
-
-
-<details>
-  <summary>Wakatime ⏳</summary>
-  <br/>
-  <img src="https://wakatime.com/share/@HItzz07/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
-  <br/>
-  <br/>
-  <br/>
-
-  <img src="https://wakatime.com/share/@HItzz07/b43da924-55df-4315-897d-e4dd9fb798f9.png">
-</details>
-
-
-<details>
-  <summary>Extra Pins 📌</summary>
-  <br/>
-  <br/>
- 
-   <a href="https://github.com/HItzz07/Happier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HItzz07&repo=Happier&theme=default" />
+  <!-- Streak Stats -->
+<a href="https://github.com/HItzz07/HItzz07/github-readme-stats">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=HItzz07&theme=tokyonight&hide_border=true" alt="Hitesh's Streak" />
 </a>
-  <br/>
-  <br/>
- 
-   <a href="https://github.com/HItzz07/telegram-bot-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HItzz07&repo=telegram-bot-template&theme=default" />
- </a>
+  
+  <br/><br/>
 
+  <!-- Main Stats -->
+  <a href="https://github.com/HItzz07">
+    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=HItzz07&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79ff97&icon_color=79ff97" alt="Hitesh's Stats" />
+  </a>
+  
+  <!-- Top Languages -->
+  <a href="https://github.com/HItzz07">
+    <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HItzz07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79ff97&icon_color=79ff97&hide=Jupyter%20Notebook,HTML,CSS,Shell" alt="Hitesh's Top Languages" />
+  </a>
 
-   <br/>
-  <br/>
- 
-   <a href="https://github.com/rzashakeri/personal-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HItzz07&repo=personal-site&theme=default" />
- </a>
- 
-</details>
+</div>
 
-## Recent GitHub Activity ✅
+<br clear="both"/>
+<br/>
 
-![Metrics](https://metrics.lecoq.io/HItzz07?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran)
+### 📈 Activity Graph
 
-## GitHub Profile Trophy 🏆
+<div align="center">
+  <!-- Snake Animation -->
+  <a href="https://github.com/HItzz07">
+    <img src="https://github.com/HItzz07/HItzz07/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  </a>
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HItzz07&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+### 🏆 Achievements
+
+<div align="center">
+  <a href="https://github.com/HItzz07">
+    <img src="https://github-profile-trophy.vercel.app/?username=HItzz07&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" width="100%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HItzz07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+</div>
