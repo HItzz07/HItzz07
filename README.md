@@ -27,7 +27,7 @@
 ### 👨‍💻 About Me
 
 I am **Hitesh Kumar Sahu**, a **Senior Software Engineer** based in **Pune, India**. 
-I have **4+ years** of programming experience, specializing in building high-performance backend systems and cross-platform desktop applications. My passion lies in solving complex architectural problems and optimizing workflows.
+I have **4.5+ years** of programming experience, specializing in building high-performance backend systems and cross-platform desktop applications. My passion lies in solving complex architectural problems and optimizing workflows.
 
 - 🔭 I’m currently building **scalable backend systems and APIs using Python & FastAPI**, and experimenting with **cross-platform desktop apps using Tauri & Rust** for performance-focused tools.
 
@@ -52,8 +52,8 @@ I have **4+ years** of programming experience, specializing in building high-per
 
 | **Domain** | **Technologies** |
 |:---:|:---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,rust,go,js,ts,cpp,kotlin" height="40" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,flask,postgres,redis,mariadb" height="40" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,rust,go,js,ts,cpp" height="40" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,django,frappe,nodejs,flask,postgres,redis,mariadb" height="40" /> |
 | **Frontend/Desktop** | <img src="https://skillicons.dev/icons?i=tauri,react,svelte,html,css,flutter" height="40" /> |
 | **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,githubactions,jenkins,vscode" height="40" /> |
 
